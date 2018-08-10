@@ -1,4 +1,4 @@
-# w3.css-without-w3-tag
+# w3.css without w3-prefix
 
 Hi everybody !
 For some time now I have been using the ex-framework of w3schools.com - W3.css which provides a lot of CSS classes to facilitate web development. 
